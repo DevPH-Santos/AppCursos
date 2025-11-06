@@ -1,0 +1,12 @@
+C:\Users\Pedro\Desktop\AppCurso\bin\Debug\AppCurso.exe.config
+C:\Users\Pedro\Desktop\AppCurso\bin\Debug\AppCurso.exe
+C:\Users\Pedro\Desktop\AppCurso\bin\Debug\AppCurso.pdb
+C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.Properties.Resources.resources
+C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCursos.UI.Cadastro.resources
+C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCursos.UI.Dashboard.resources
+C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.exe
+C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.pdb
+C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.exe.config
