@@ -10,3 +10,15 @@ C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.csproj.CoreCompileInputs.cach
 C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.exe
 C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.pdb
 C:\Users\Pedro\Desktop\AppCurso\obj\Debug\AppCurso.exe.config
+F:\backup-02-2025\sistemas\AppCurso\bin\Debug\AppCurso.exe.config
+F:\backup-02-2025\sistemas\AppCurso\bin\Debug\AppCurso.exe
+F:\backup-02-2025\sistemas\AppCurso\bin\Debug\AppCurso.pdb
+F:\backup-02-2025\sistemas\AppCurso\obj\Debug\AppCurso.csproj.AssemblyReference.cache
+F:\backup-02-2025\sistemas\AppCurso\obj\Debug\AppCurso.exe.config
+F:\backup-02-2025\sistemas\AppCurso\obj\Debug\AppCurso.Properties.Resources.resources
+F:\backup-02-2025\sistemas\AppCurso\obj\Debug\AppCursos.UI.Cadastro.resources
+F:\backup-02-2025\sistemas\AppCurso\obj\Debug\AppCursos.UI.Dashboard.resources
+F:\backup-02-2025\sistemas\AppCurso\obj\Debug\AppCurso.csproj.GenerateResource.cache
+F:\backup-02-2025\sistemas\AppCurso\obj\Debug\AppCurso.csproj.CoreCompileInputs.cache
+F:\backup-02-2025\sistemas\AppCurso\obj\Debug\AppCurso.exe
+F:\backup-02-2025\sistemas\AppCurso\obj\Debug\AppCurso.pdb
