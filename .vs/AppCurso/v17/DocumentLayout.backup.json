@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "F:\\backup-02-2025\\sistemas\\AppCurso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17761D30-CFDD-4B2C-8CFC-F298A43808F9}|AppCurso.csproj|f:\\backup-02-2025\\sistemas\\appcurso\\view\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{17761D30-CFDD-4B2C-8CFC-F298A43808F9}|AppCurso.csproj|solutionrelative:view\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17761D30-CFDD-4B2C-8CFC-F298A43808F9}|AppCurso.csproj|f:\\backup-02-2025\\sistemas\\appcurso\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17761D30-CFDD-4B2C-8CFC-F298A43808F9}|AppCurso.csproj|F:\\backup-02-2025\\sistemas\\AppCurso\\view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17761D30-CFDD-4B2C-8CFC-F298A43808F9}|AppCurso.csproj|solutionrelative:view\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{17761D30-CFDD-4B2C-8CFC-F298A43808F9}|AppCurso.csproj|F:\\backup-02-2025\\sistemas\\AppCurso\\controller\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17761D30-CFDD-4B2C-8CFC-F298A43808F9}|AppCurso.csproj|solutionrelative:controller\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17761D30-CFDD-4B2C-8CFC-F298A43808F9}|AppCurso.csproj|f:\\backup-02-2025\\sistemas\\appcurso\\view\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17761D30-CFDD-4B2C-8CFC-F298A43808F9}|AppCurso.csproj|solutionrelative:view\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,53 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Cadastro.cs [Design]",
               "DocumentMoniker": "F:\\backup-02-2025\\sistemas\\AppCurso\\View\\Cadastro.cs",
               "RelativeDocumentMoniker": "View\\Cadastro.cs",
-              "ToolTip": "F:\\backup-02-2025\\sistemas\\AppCurso\\View\\Cadastro.cs [Design]*",
-              "RelativeToolTip": "View\\Cadastro.cs [Design]*",
+              "ToolTip": "F:\\backup-02-2025\\sistemas\\AppCurso\\View\\Cadastro.cs [Design]",
+              "RelativeToolTip": "View\\Cadastro.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T22:40:52.674Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "F:\\backup-02-2025\\sistemas\\AppCurso\\View\\Dashboard.cs",
               "RelativeDocumentMoniker": "View\\Dashboard.cs",
-              "ToolTip": "F:\\backup-02-2025\\sistemas\\AppCurso\\View\\Dashboard.cs [Design]",
-              "RelativeToolTip": "View\\Dashboard.cs [Design]",
+              "ToolTip": "F:\\backup-02-2025\\sistemas\\AppCurso\\View\\Dashboard.cs [Design]*",
+              "RelativeToolTip": "View\\Dashboard.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T14:15:26.435Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Curso.cs",
               "DocumentMoniker": "F:\\backup-02-2025\\sistemas\\AppCurso\\Controller\\Curso.cs",
               "RelativeDocumentMoniker": "Controller\\Curso.cs",
-              "ToolTip": "F:\\backup-02-2025\\sistemas\\AppCurso\\Controller\\Curso.cs",
-              "RelativeToolTip": "Controller\\Curso.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwv04AAAAAAAAAAAAAAA==",
+              "ToolTip": "F:\\backup-02-2025\\sistemas\\AppCurso\\Controller\\Curso.cs*",
+              "RelativeToolTip": "Controller\\Curso.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwBoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T13:25:46.794Z"
+              "WhenOpened": "2025-11-06T13:25:46.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Dashboard.cs",
               "DocumentMoniker": "F:\\backup-02-2025\\sistemas\\AppCurso\\View\\Dashboard.cs",
               "RelativeDocumentMoniker": "View\\Dashboard.cs",
-              "ToolTip": "F:\\backup-02-2025\\sistemas\\AppCurso\\View\\Dashboard.cs",
-              "RelativeToolTip": "View\\Dashboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "ToolTip": "F:\\backup-02-2025\\sistemas\\AppCurso\\View\\Dashboard.cs*",
+              "RelativeToolTip": "View\\Dashboard.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwFcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T12:01:49.63Z",
               "EditorCaption": ""

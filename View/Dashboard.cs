@@ -84,6 +84,8 @@ namespace AppCursos.UI
         private void Dashboard_Load(object sender, EventArgs e)
         {
             ListarCursos();
+            Curso curso = new Curso();
+            curso.LigarBD();
         }
 
         private void dataGridCursos_CellContentClick(object sender, DataGridViewCellEventArgs e)

@@ -12,6 +12,31 @@ namespace AppCurso.Controller
     {
         private readonly string stringConexao = "Server=localhost; Database=APPCURSOS; Integrated Security=True";
 
+        #region Ligar BD
+
+        public bool LigarBD()
+        {
+            using (SqlConnection conexao = new SqlConnection(stringConexao))
+            {
+                try
+                {
+                    conexao.Open();string query = "USE APPCURSOS";
+
+                    using (SqlCommand cmd = new SqlCommand(query, conexao))
+                    {
+                        return cmd.ExecuteNonQuery() > 0;
+                    }
+
+                }
+                catch (SqlException ex)
+                {
+                    throw new Exception("Erro ao ligar o bd: " + ex.Message);
+                }
+            }
+        }
+
+        #endregion
+
         #region Cadastrar Curso
 
         public bool CadastrarCurso(string nome, string link, string status)
